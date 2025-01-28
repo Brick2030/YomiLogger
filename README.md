@@ -1,5 +1,5 @@
 # YomiLogger
-(WRITTEN BY AI)
+(README WRITTEN BY AI)
 ## Overview
 
 YomiLogger is a simple logging utility written in Python that allows you to log messages to both the console and a specified log file. This README will guide you through the installation process, usage of the logging functions, and customization options.
